@@ -1,0 +1,89 @@
+2024-06-21 14:57:16,754 [ERROR] app: Error Occured: connection already closed
+2024-07-25 12:34:01,787 [ERROR] app: Error Occured: connection already closed
+2024-11-19 16:47:18,677 [INFO] app: Running run_player_prediction : [{'player_id': 204648, 'player_name': 'Abhishek Sharma ', 'team_id': 1, 'batRun': 2, 'current_boundaries': 0}, {'player_id': 204657, 'player_name': ' Arshdeep Singh', 'team_id': 1, 'batRun': 1, 'current_boundaries': 0}, {'player_id': 204673, 'player_name': 'Matthew Short', 'team_id': 2, 'batRun': 0, 'current_boundaries': 0}]
+2024-11-19 16:47:22,051 [INFO] app: player id 204648 0    204648
+1    204657
+Name: wrCommentaryPlayerId, dtype: int64
+2024-11-19 16:47:22,062 [INFO] app: player_event_market_details     wrID  wrCommentaryId  ...  wrDefaultIsSendData  wrRateDiff
+1  16719            4766  ...                 True         1.0
+
+[1 rows x 63 columns]
+2024-11-19 16:47:23,269 [INFO] app: event_market_wrId 16719 <class 'str'>
+2024-11-19 16:47:24,398 [INFO] app: Player event_market_wrId 16719
+2024-11-19 16:47:25,039 [INFO] app: Update is Success in the player event runner market 25981
+2024-11-19 16:47:26,286 [INFO] app: Update is Success in the player event market 16719
+2024-11-19 16:47:28,916 [INFO] app: Update is Success for WrData 16719
+2024-11-19 16:47:28,926 [INFO] app: player id 204657 0    204648
+1    204657
+Name: wrCommentaryPlayerId, dtype: int64
+2024-11-19 16:47:28,942 [INFO] app: player_event_market_details     wrID  wrCommentaryId  ...  wrDefaultIsSendData  wrRateDiff
+3  16720            4766  ...                 True         1.0
+
+[1 rows x 63 columns]
+2024-11-19 16:47:30,319 [INFO] app: event_market_wrId 16720 <class 'str'>
+2024-11-19 16:47:31,256 [INFO] app: Player event_market_wrId 16720
+2024-11-19 16:47:31,919 [INFO] app: Update is Success in the player event runner market 25982
+2024-11-19 16:47:32,988 [INFO] app: Update is Success in the player event market 16720
+2024-11-19 16:47:36,329 [INFO] app: Update is Success for WrData 16720
+2024-11-19 16:47:36,333 [INFO] app: Running run_player_prediction : [{'player_id': 204648, 'player_name': 'Abhishek Sharma ', 'team_id': 1, 'batRun': 2, 'current_boundaries': 0}, {'player_id': 204657, 'player_name': ' Arshdeep Singh', 'team_id': 1, 'batRun': 1, 'current_boundaries': 0}, {'player_id': 204673, 'player_name': 'Matthew Short', 'team_id': 2, 'batRun': 0, 'current_boundaries': 0}]
+2024-11-19 16:47:40,643 [INFO] app: player id 204648 0    204648
+1    204657
+Name: wrCommentaryPlayerId, dtype: int64
+2024-11-19 16:47:40,654 [INFO] app: player_event_market_details     wrID  wrCommentaryId  ...  wrDefaultIsSendData  wrRateDiff
+2  16721            4766  ...                 True         0.0
+
+[1 rows x 63 columns]
+2024-11-19 16:47:42,508 [INFO] app: event_market_wrId 16721 <class 'str'>
+2024-11-19 16:47:44,908 [INFO] app: Player event_market_wrId 16721
+2024-11-19 16:47:45,827 [INFO] app: Update is Success in the player event runner market 25983
+2024-11-19 16:47:47,839 [INFO] app: Update is Success in the player event market 16721
+2024-11-19 16:47:50,854 [INFO] app: Update is Success for WrData 16721
+2024-11-19 16:47:50,863 [INFO] app: player id 204657 0    204648
+1    204657
+Name: wrCommentaryPlayerId, dtype: int64
+2024-11-19 16:47:50,882 [INFO] app: player_event_market_details     wrID  wrCommentaryId  ...  wrDefaultIsSendData  wrRateDiff
+0  16722            4766  ...                 True         0.0
+
+[1 rows x 63 columns]
+2024-11-19 16:47:52,024 [INFO] app: event_market_wrId 16722 <class 'str'>
+2024-11-19 16:47:53,392 [INFO] app: Player event_market_wrId 16722
+2024-11-19 16:47:54,162 [INFO] app: Update is Success in the player event runner market 25984
+2024-11-19 16:47:55,211 [INFO] app: Update is Success in the player event market 16722
+2024-11-19 16:47:57,946 [INFO] app: Update is Success for WrData 16722
+2024-11-19 16:47:57,949 [INFO] app: Sending data to socket {'commentaryId': 4766, 'marketData': ['{\n  "marketId": 16719,\n  "commentaryId": 4766,\n  "eventId": "74302981",\n  "marketName": "Abhishek Sharma  boundaries",\n  "status": 1,\n  "isActive": true,\n  "isAllow": true,\n  "isSendData": true,\n  "teamId": 1,\n  "margin": 5.0,\n  "over": 0.0,\n  "inningsId": 1,\n  "lineRatio": 0.0,\n  "marketTypeCategoryId": 29,\n  "marketTypeId": 2,\n  "ballByBallId": 812883,\n  "lineType": 2,\n  "rateDiff": 1.0,\n  "runner": [\n    {\n      "runnerId": 25981,\n      "status": 1,\n      "line": 0.0,\n      "overRate": 0.53,\n      "underRate": 0.32,\n      "backPrice": 1.0,\n      "layPrice": 0.0,\n      "backSize": 90.0,\n      "laySize": 110.0\n    }\n  ]\n}', '{\n  "marketId": 16720,\n  "commentaryId": 4766,\n  "eventId": "74302981",\n  "marketName": " Arshdeep Singh boundaries",\n  "status": 1,\n  "isActive": true,\n  "isAllow": true,\n  "isSendData": true,\n  "teamId": 1,\n  "margin": 5.0,\n  "over": 0.0,\n  "inningsId": 1,\n  "lineRatio": 0.0,\n  "marketTypeCategoryId": 29,\n  "marketTypeId": 2,\n  "ballByBallId": 812883,\n  "lineType": 2,\n  "rateDiff": 1.0,\n  "runner": [\n    {\n      "runnerId": 25982,\n      "status": 1,\n      "line": 0.0,\n      "overRate": 0.53,\n      "underRate": 0.32,\n      "backPrice": 1.0,\n      "layPrice": 0.0,\n      "backSize": 90.0,\n      "laySize": 110.0\n    }\n  ]\n}', '{\n  "marketId": 16721,\n  "commentaryId": 4766,\n  "eventId": "74302981",\n  "marketName": "Abhishek Sharma  runs",\n  "status": 1,\n  "isActive": true,\n  "isAllow": true,\n  "isSendData": true,\n  "teamId": 1,\n  "margin": 5.0,\n  "over": 0.0,\n  "inningsId": 1,\n  "lineRatio": 0.0,\n  "marketTypeCategoryId": 12,\n  "marketTypeId": 2,\n  "ballByBallId": 812883,\n  "lineType": 2,\n  "rateDiff": 0.0,\n  "runner": [\n    {\n      "runnerId": 25983,\n      "status": 1,\n      "line": 25.0,\n      "overRate": 0.53,\n      "underRate": 0.32,\n      "backPrice": 25.0,\n      "layPrice": 25.0,\n      "backSize": 90.0,\n      "laySize": 110.0\n    }\n  ]\n}', '{\n  "marketId": 16722,\n  "commentaryId": 4766,\n  "eventId": "74302981",\n  "marketName": " Arshdeep Singh runs",\n  "status": 1,\n  "isActive": true,\n  "isAllow": true,\n  "isSendData": true,\n  "teamId": 1,\n  "margin": 5.0,\n  "over": 0.0,\n  "inningsId": 1,\n  "lineRatio": 0.0,\n  "marketTypeCategoryId": 12,\n  "marketTypeId": 2,\n  "ballByBallId": 812883,\n  "lineType": 2,\n  "rateDiff": 0.0,\n  "runner": [\n    {\n      "runnerId": 25984,\n      "status": 1,\n      "line": 7.0,\n      "overRate": 0.53,\n      "underRate": 0.32,\n      "backPrice": 7.0,\n      "layPrice": 7.0,\n      "backSize": 90.0,\n      "laySize": 110.0\n    }\n  ]\n}']}
+2024-11-19 16:47:57,950 [INFO] app: player_runs_response ['{"marketId": 16719, "commentaryId": 4766, "eventId": "74302981", "marketName": "Abhishek Sharma  boundaries", "status": 1, "isActive": true, "isAllow": true, "isSendData": true, "teamId": 1, "margin": 5.0, "over": 0.0, "inningsId": 1, "lineRatio": 0.0, "marketTypeCategoryId": 29, "marketTypeId": 2, "ballByBallId": 812883, "lineType": 2, "rateDiff": 1.0, "runner": [{"runnerId": 25981, "status": 1, "line": 0.0, "overRate": 0.53, "underRate": 0.32, "backPrice": 1.0, "layPrice": 0.0, "backSize": 90.0, "laySize": 110.0}]}', '{"marketId": 16720, "commentaryId": 4766, "eventId": "74302981", "marketName": " Arshdeep Singh boundaries", "status": 1, "isActive": true, "isAllow": true, "isSendData": true, "teamId": 1, "margin": 5.0, "over": 0.0, "inningsId": 1, "lineRatio": 0.0, "marketTypeCategoryId": 29, "marketTypeId": 2, "ballByBallId": 812883, "lineType": 2, "rateDiff": 1.0, "runner": [{"runnerId": 25982, "status": 1, "line": 0.0, "overRate": 0.53, "underRate": 0.32, "backPrice": 1.0, "layPrice": 0.0, "backSize": 90.0, "laySize": 110.0}]}', '{"marketId": 16721, "commentaryId": 4766, "eventId": "74302981", "marketName": "Abhishek Sharma  runs", "status": 1, "isActive": true, "isAllow": true, "isSendData": true, "teamId": 1, "margin": 5.0, "over": 0.0, "inningsId": 1, "lineRatio": 0.0, "marketTypeCategoryId": 12, "marketTypeId": 2, "ballByBallId": 812883, "lineType": 2, "rateDiff": 0.0, "runner": [{"runnerId": 25983, "status": 1, "line": 25.0, "overRate": 0.53, "underRate": 0.32, "backPrice": 25.0, "layPrice": 25.0, "backSize": 90.0, "laySize": 110.0}]}', '{"marketId": 16722, "commentaryId": 4766, "eventId": "74302981", "marketName": " Arshdeep Singh runs", "status": 1, "isActive": true, "isAllow": true, "isSendData": true, "teamId": 1, "margin": 5.0, "over": 0.0, "inningsId": 1, "lineRatio": 0.0, "marketTypeCategoryId": 12, "marketTypeId": 2, "ballByBallId": 812883, "lineType": 2, "rateDiff": 0.0, "runner": [{"runnerId": 25984, "status": 1, "line": 7.0, "overRate": 0.53, "underRate": 0.32, "backPrice": 7.0, "layPrice": 7.0, "backSize": 90.0, "laySize": 110.0}]}']
+2024-11-19 16:47:57,951 [INFO] app: fow_response {'status': True, 'msg': 'fow template not available'}
+2024-12-20 15:06:59,898 [INFO] app: Insert Success in the player event market 22764
+2024-12-20 15:07:24,154 [INFO] app: Insert Success in the player boundary event runner market 39394
+2024-12-20 15:21:42,748 [INFO] app: Insert Success in the player event market 22765
+2024-12-20 15:22:01,948 [INFO] app: Insert Success in the player boundary event runner market 39395
+2024-12-20 15:41:02,418 [INFO] app: Insert Success in the player event market 22766
+2024-12-20 15:41:26,787 [INFO] app: Insert Success in the player boundary event runner market 39396
+2024-12-20 15:42:04,472 [INFO] app: Insert Success in the player event market 22767
+2024-12-20 15:42:07,199 [INFO] app: Insert Success in the player boundary event runner market 39397
+2024-12-20 15:42:10,561 [INFO] app: Insert Success in the player event market 22768
+2024-12-20 15:42:12,820 [INFO] app: Insert Success in the player boundary event runner market 39398
+2024-12-20 15:42:15,675 [INFO] app: Insert Success in the player event market 22769
+2024-12-20 15:42:17,933 [INFO] app: Insert Success in the player boundary event runner market 39399
+2024-12-20 17:06:00,493 [INFO] app: player_info {'wrCommentaryPlayerId': 214436, 'wrCommentaryId': 5072, 'wrTeamId': 1, 'wrPlayerId': 416, 'wrPlayerName': 'Tilak Varma', 'wrDisplayOrder': 6, 'wrBat_Status': None, 'wrBat_Run': 0, 'wrBat_Ball': 1, 'wrBat_DotBall': 1, 'wrBat_FOUR': None, 'wrBat_SIX': None, 'wrBat_SRR': None, 'wrBat_BattingOrder': None, 'wrBat_IsPlay': True, 'wrBat_OnStrike': True, 'wrBat_WicketType': None, 'wrBat_BowlerID': None, 'wrBat_FielderID1': None, 'wrBat_FielderID2': None, 'wrBowler_Over': None, 'wrBowler_CurrentBall': None, 'wrBowler_TotalBall': None, 'wrBowler_Run': None, 'wrBowler_DotBall': None, 'wrBowler_MaidenOver': None, 'wrBowler_FOUR': None, 'wrBowler_SIX': None, 'wrBowler_WideBall': None, 'wrBowler_NOBall': None, 'wrBowler_ByeBall': None, 'wrBowler_LegByeBall': None, 'wrBowler_WideBallRun': None, 'wrBowler_NOBallRun': None, 'wrBowler_ByeBallRun': None, 'wrBowler_LegByeBallRun': None, 'wrBowler_TotalWicket': None, 'wrBowler_Economy': None, 'wrBowler_OnStrike': None, 'wrBowler_PeneltyRun': None, 'wrIsBatter_Out': None, 'wrIsBatter_Retir': None, 'wrSwapName': None, 'wrBatsmanAverage': 0.0, 'wrBatsmanStrikeRate': 0.0, 'wrBowlerEconomy': None, 'wrBowlerAverage': 0.0, 'wrCurrentInnings': 1, 'wrBatsmanPreviousStrikeRate': 144.53, 'wrBowlerPreviousEconomy': 13.33, 'wrBatterOrder': 3, 'wrBowlerOrder': None, 'wrIsInPlayingEleven': True, 'wrBoundary': 0.0, 'wrIsDelete': False, 'wrDeletedBy': None, 'wrDeletedAt': None, 'wrPlayerBallFaced': 0.0}
+2024-12-20 17:06:00,948 [INFO] app: Insert Success in the player event market 22783
+2024-12-20 17:06:04,516 [INFO] app: Insert Success in the player boundary event runner market 39413
+2024-12-20 17:06:04,566 [INFO] app: Insert Success in the player event market 22784
+2024-12-20 17:06:07,092 [INFO] app: Insert Success in the player event runner market 39414
+2024-12-20 17:10:15,591 [INFO] app: Insert Success in the player event market 22785
+2024-12-20 17:10:57,072 [INFO] app: Insert Success in the player boundary event runner market 39415
+2024-12-20 17:18:58,856 [INFO] app: player_info {'wrCommentaryPlayerId': 214436, 'wrCommentaryId': 5072, 'wrTeamId': 1, 'wrPlayerId': 416, 'wrPlayerName': 'Tilak Varma', 'wrDisplayOrder': 6, 'wrBat_Status': None, 'wrBat_Run': 0, 'wrBat_Ball': 1, 'wrBat_DotBall': 1, 'wrBat_FOUR': None, 'wrBat_SIX': None, 'wrBat_SRR': None, 'wrBat_BattingOrder': None, 'wrBat_IsPlay': True, 'wrBat_OnStrike': True, 'wrBat_WicketType': None, 'wrBat_BowlerID': None, 'wrBat_FielderID1': None, 'wrBat_FielderID2': None, 'wrBowler_Over': None, 'wrBowler_CurrentBall': None, 'wrBowler_TotalBall': None, 'wrBowler_Run': None, 'wrBowler_DotBall': None, 'wrBowler_MaidenOver': None, 'wrBowler_FOUR': None, 'wrBowler_SIX': None, 'wrBowler_WideBall': None, 'wrBowler_NOBall': None, 'wrBowler_ByeBall': None, 'wrBowler_LegByeBall': None, 'wrBowler_WideBallRun': None, 'wrBowler_NOBallRun': None, 'wrBowler_ByeBallRun': None, 'wrBowler_LegByeBallRun': None, 'wrBowler_TotalWicket': None, 'wrBowler_Economy': None, 'wrBowler_OnStrike': None, 'wrBowler_PeneltyRun': None, 'wrIsBatter_Out': None, 'wrIsBatter_Retir': None, 'wrSwapName': None, 'wrBatsmanAverage': 0.0, 'wrBatsmanStrikeRate': 0.0, 'wrBowlerEconomy': None, 'wrBowlerAverage': 0.0, 'wrCurrentInnings': 1, 'wrBatsmanPreviousStrikeRate': 144.53, 'wrBowlerPreviousEconomy': 13.33, 'wrBatterOrder': 3, 'wrBowlerOrder': None, 'wrIsInPlayingEleven': True, 'wrBoundary': 0.0, 'wrIsDelete': False, 'wrDeletedBy': None, 'wrDeletedAt': None, 'wrPlayerBallFaced': 0.0}
+2024-12-20 17:19:26,201 [INFO] app: Insert Success in the player event market 22786
+2024-12-20 17:19:27,007 [INFO] app: Insert Success in the player event runner market 39416
+2024-12-20 17:19:27,814 [INFO] app: Insert Success in the player event market 22787
+2024-12-20 17:19:50,409 [INFO] app: Insert Success in the player boundary event runner market 39417
+2024-12-20 17:56:30,011 [INFO] app: Insert Success in the player event market 22800
+2024-12-27 19:06:33,622 [INFO] app: Insert Success in the player event market 23579
+2024-12-27 19:39:33,728 [INFO] app: Insert Success in the player event market 23596
+2024-12-27 19:39:34,662 [INFO] app: Insert Success in the player boundary event runner market 40584
+2024-12-27 19:40:52,724 [INFO] app: Insert Success in the player event market 23597
+2024-12-27 19:40:53,713 [INFO] app: Insert Success in the player boundary event runner market 40585
+2024-12-31 13:47:06,899 [INFO] app: Insert Success in the player event market 23879
+2024-12-31 13:47:07,858 [INFO] app: Insert Success in the player boundary event runner market 41011
+2025-01-28 14:52:19,853 [INFO] app: Insert Success in the player event market 52487
+2025-01-28 14:52:24,533 [INFO] app: Insert Success in the player boundary event runner market 89314

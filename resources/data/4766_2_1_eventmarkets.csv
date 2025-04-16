@@ -1,0 +1,746 @@
+wrID,wrCommentaryId,wrEventRefID,wrTeamID,wrInningsID,wrMarketName,wrMargin,wrStatus,wrIsPredefineMarket,wrIsOver,wrOver,wrIsPlayer,wrPlayerID,wrIsAutoCancel,wrAutoOpenType,wrAutoOpen,wrAutoCloseType,wrBeforeAutoClose,wrAutoSuspendType,wrBeforeAutoSuspend,wrIsBallStart,wrIsAutoResultSet,wrAutoResultType,wrAutoResultafterBall,wrAfterWicketAutoSuspend,wrAfterWicketNotCreated,wrIsActive,wrIsAllow,wrCloseTime,wrOpenTime,wrSettledTime,wrResult,wrIsResult,wrData,wrLastUpdate,wrIsSendData,wrActionType,wrMarketTemplateId,wrMarketTypeId,wrMarketTypeCategoryId,wrCreateRefId,wrOpenRefId,wrCreateType,wrCreate,wrTemplateType,wrDelay,wrLineRatio,wrOpenOdds,wrMinOdds,wrMaxOdds,wrRateSource,wrRateSourceRefID,wrPredefinedValue,wrLineType,wrDefaultBackSize,wrDefaultLaySize,wrIsDeleted,wrDeletedBy,wrDeletedAt,wrAfterSuspendTime,wrAfterCloseTime,wrDefaultIsSendData,wrRateDiff,status,predefined_value,onlyovers,maxovers,minodds,maxodds,openvalue,overBalls,line,overrate,underrate,backprice,layprice,laysize,backsize,beforeAutoCloseBalls,beforeAutoSuspendBalls,autoOpenBalls,createBalls
+16728,4766,74302981,1,1,ONLY 3 OVER RUN - IND,5.0,1,False,True,3.0,False,0.0,True,1,5.0,1,5.0,1,5.0,True,True,1,2.0,7,8,True,1,0.0,2024-11-19 11:24:22.620779+00:00,0.0,0.0,False,"{
+  ""marketId"": 16728,
+  ""eventId"": ""74302981"",
+  ""marketName"": ""ONLY 3 OVER RUN - IND"",
+  ""status"": 1,
+  ""isActive"": true,
+  ""isAllow"": true,
+  ""runner"": [
+    {
+      ""runnerId"": 25980,
+      ""status"": 1,
+      ""runner"": ""ONLY 3 OVER RUN - IND"",
+      ""line"": 8.4,
+      ""overRate"": 2.0,
+      ""underRate"": 1.81,
+      ""backPrice"": 9.0,
+      ""layPrice"": 8.0,
+      ""backSize"": 100.0,
+      ""laySize"": 100.0
+    }
+  ]
+}",2024-11-19 12:21:34.796643+00:00,False,2,83,2,11,0.0,0.0,1,4.0,3,1.0,1.0,9.0,9.0,9.0,1,0.0,8.399999999999999,1,100.0,100.0,False,0.0,0.0,0.0,0.0,False,1.0,1,0.0,3.0,20,9.0,9.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,
+83,4766,74302981,1,1,ONLY {x} OVER RUN - IND,5.0,2,False,True,3.0,False,0.0,True,1,5.0,1,5.0,1,5.0,True,True,1,2.0,7,8,True,1,0.0,0,0.0,0.0,0,0,0,False,2,83,2,11,0.0,0.0,1,4.0,3,1.0,1.0,0.0,0.0,0.0,1,0.0,0.0,1,100.0,100.0,False,0.0,0.0,0.0,0.0,False,1.0,2,0.0,0.0,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,
+16699,4766,74302981,1,1,4 Over Runs - IND,5.0,1,True,True,4.0,False,0.0,True,2,0.0,2,3.5,2,3.5,True,True,1,2.0,6,6,True,1,0.0,2024-11-19 11:17:13.513104+00,0.0,0.0,False,"{
+  ""marketId"": 16699,
+  ""eventId"": ""74302981"",
+  ""marketName"": ""4 Over Runs - IND"",
+  ""status"": 1,
+  ""isActive"": true,
+  ""isAllow"": true,
+  ""runner"": [
+    {
+      ""runnerId"": 25919,
+      ""status"": 1,
+      ""runner"": ""4 Over Runs - IND"",
+      ""line"": 36.42,
+      ""overRate"": 1.98,
+      ""underRate"": 1.83,
+      ""backPrice"": 37.0,
+      ""layPrice"": 36.0,
+      ""backSize"": 100.0,
+      ""laySize"": 100.0
+    }
+  ]
+}",2024-11-19 13:38:16.093897+00:00,False,1,56,2,23,0.0,0.0,2,0.0,3,0.0,1.0,40.0,35.0,40.0,1,0.0,40.0,1,100.0,100.0,False,0.0,0.0,0.0,0.0,False,1.0,1,0.0,0.0,20,35.0,40.0,40.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,23.0,0.0,0.0
+16704,4766,74302981,1,1,4 OVER L.D.O - IND,3.0,1,False,True,4.0,False,0.0,False,2,0.0,2,2.3,2,2.2,False,True,1,2.0,8,8,True,1,0.0,0,0.0,0.0,False,"{
+  ""marketId"": 16704,
+  ""eventId"": ""74302981"",
+  ""marketName"": ""4 OVER L.D.O - IND"",
+  ""status"": 1,
+  ""isActive"": true,
+  ""isAllow"": true,
+  ""runner"": [
+    {
+      ""runnerId"": 25924,
+      ""status"": 1,
+      ""runner"": ""4 OVER L.D.O - IND"",
+      ""line"": 0.6,
+      ""overRate"": 2.03,
+      ""underRate"": 1.97,
+      ""backPrice"": 1.0,
+      ""layPrice"": 1.0,
+      ""backSize"": 95.0,
+      ""laySize"": 105.0
+    }
+  ]
+}",2024-11-19 11:23:48.407306+00:00,False,0,98,2,26,0.0,0.0,1,0.0,3,5.0,1.0,0.0,0.0,0.0,1,0.0,0.0,1,100.0,100.0,False,0.0,0.0,0.0,0.0,False,1.0,1,0.0,0.0,20,0.0,0.0,0.0,24.0,0.6,2.03,1.97,1.0,1.0,105.0,95.0,15.0,14.0,0.0,0.0
+16700,4766,74302981,1,1,6 over Runs - IND,5.0,1,True,True,6.0,False,0.0,True,2,0.0,2,5.5,2,5.5,True,True,2,2.0,0,0,True,1,0.0,2024-11-19 11:17:13.513104+00,0.0,0.0,False,"{
+  ""marketId"": 16700,
+  ""eventId"": ""74302981"",
+  ""marketName"": ""6 over Runs - IND"",
+  ""status"": 1,
+  ""isActive"": true,
+  ""isAllow"": true,
+  ""runner"": [
+    {
+      ""runnerId"": 25920,
+      ""status"": 1,
+      ""runner"": ""6 over Runs - IND"",
+      ""line"": 56.42,
+      ""overRate"": 1.98,
+      ""underRate"": 1.83,
+      ""backPrice"": 56.0,
+      ""layPrice"": 56.0,
+      ""backSize"": 100.0,
+      ""laySize"": 100.0
+    }
+  ]
+}",2024-11-19 13:38:16.093897+00:00,False,1,50,2,23,0.0,0.0,2,0.0,3,0.0,1.0,60.0,54.0,60.0,1,0.0,60.0,1,100.0,100.0,False,0.0,0.0,0.0,0.0,False,0.0,1,0.0,0.0,20,54.0,60.0,60.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,35.0,0.0,0.0
+16705,4766,74302981,1,1,6 OVER L.D.O - IND,3.0,1,False,True,6.0,False,0.0,False,2,0.0,2,4.3,2,4.2,False,True,1,2.0,8,8,True,1,0.0,0,0.0,0.0,False,"{
+  ""marketId"": 16705,
+  ""eventId"": ""74302981"",
+  ""marketName"": ""6 OVER L.D.O - IND"",
+  ""status"": 1,
+  ""isActive"": true,
+  ""isAllow"": true,
+  ""runner"": [
+    {
+      ""runnerId"": 25925,
+      ""status"": 1,
+      ""runner"": ""6 OVER L.D.O - IND"",
+      ""line"": 0.6,
+      ""overRate"": 2.03,
+      ""underRate"": 1.97,
+      ""backPrice"": 1.0,
+      ""layPrice"": 1.0,
+      ""backSize"": 95.0,
+      ""laySize"": 105.0
+    }
+  ]
+}",2024-11-19 11:23:48.407306+00:00,False,0,99,2,26,0.0,0.0,1,0.0,3,5.0,1.0,0.0,0.0,0.0,1,0.0,0.0,1,100.0,100.0,False,0.0,0.0,0.0,0.0,False,1.0,1,0.0,0.0,20,0.0,0.0,0.0,36.0,0.6,2.03,1.97,1.0,1.0,105.0,95.0,27.0,26.0,0.0,0.0
+16706,4766,74302981,1,1,6 OVER Last Digit Lottery - IND,3.0,1,False,True,6.0,False,0.0,False,2,0.0,2,2.5,2,2.4,False,True,1,2.0,8,11,True,1,0.0,0,0.0,0.0,False,"{
+  ""marketId"": 16706,
+  ""eventId"": ""74302981"",
+  ""marketName"": ""6 OVER Last Digit Lottery - IND"",
+  ""status"": 1,
+  ""isActive"": true,
+  ""isAllow"": true,
+  ""runner"": [
+    {
+      ""runnerId"": 25926,
+      ""status"": 1,
+      ""runner"": ""4"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25927,
+      ""status"": 1,
+      ""runner"": ""5"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25928,
+      ""status"": 1,
+      ""runner"": ""6"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25929,
+      ""status"": 1,
+      ""runner"": ""7"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25930,
+      ""status"": 1,
+      ""runner"": ""8"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25931,
+      ""status"": 1,
+      ""runner"": ""9"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25932,
+      ""status"": 1,
+      ""runner"": ""0"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25933,
+      ""status"": 1,
+      ""runner"": ""1"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25934,
+      ""status"": 1,
+      ""runner"": ""2"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25935,
+      ""status"": 1,
+      ""runner"": ""3"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    }
+  ]
+}",0,True,0,149,5,28,0.0,0.0,1,0.0,3,2.0,1.0,0.0,0.0,0.0,1,0.0,0.0,1,100.0,100.0,False,0.0,0.0,0.0,0.0,False,1.0,1,0.0,0.0,20,0.0,0.0,0.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,16.0,0.0,0.0
+138,4766,74302981,1,1,8 over Runs - IND,5.0,2,False,True,8.0,False,0.0,True,2,4.1,2,7.5,2,7.4,True,True,1,2.0,8,8,True,1,0.0,0,0.0,0.0,0,0,0,False,1,138,2,23,0.0,0.0,1,3.4,3,1.0,1.0,0.0,0.0,0.0,1,0.0,60.54,1,100.0,100.0,False,0.0,0.0,0.0,0.0,False,1.0,2,0.0,0.0,20,58.0,58.0,58.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,47.0,46.0,25.0,22.0
+16708,4766,74302981,1,1,10 OVER Last Digit Lottery - IND,3.0,1,False,True,10.0,False,0.0,False,2,0.0,2,7.5,2,7.4,False,True,1,2.0,8,11,True,1,0.0,0,0.0,0.0,False,"{
+  ""marketId"": 16708,
+  ""eventId"": ""74302981"",
+  ""marketName"": ""10 OVER Last Digit Lottery - IND"",
+  ""status"": 1,
+  ""isActive"": true,
+  ""isAllow"": true,
+  ""runner"": [
+    {
+      ""runnerId"": 25937,
+      ""status"": 1,
+      ""runner"": ""0"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25938,
+      ""status"": 1,
+      ""runner"": ""1"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25939,
+      ""status"": 1,
+      ""runner"": ""2"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25940,
+      ""status"": 1,
+      ""runner"": ""3"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25941,
+      ""status"": 1,
+      ""runner"": ""4"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25942,
+      ""status"": 1,
+      ""runner"": ""5"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25943,
+      ""status"": 1,
+      ""runner"": ""6"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25944,
+      ""status"": 1,
+      ""runner"": ""7"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25945,
+      ""status"": 1,
+      ""runner"": ""8"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25946,
+      ""status"": 1,
+      ""runner"": ""9"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    }
+  ]
+}",0,True,0,150,5,28,0.0,0.0,1,0.0,3,2.0,1.0,0.0,0.0,0.0,1,0.0,0.0,1,100.0,100.0,False,0.0,0.0,0.0,0.0,False,1.0,1,0.0,0.0,20,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,47.0,46.0,0.0,0.0
+16701,4766,74302981,1,1,10 Over Runs - IND,5.0,1,True,True,10.0,False,0.0,True,2,0.0,2,9.5,2,9.5,True,True,2,2.0,9,0,True,1,0.0,2024-11-19 11:17:13.513104+00,0.0,0.0,False,"{
+  ""marketId"": 16701,
+  ""eventId"": ""74302981"",
+  ""marketName"": ""10 Over Runs - IND"",
+  ""status"": 1,
+  ""isActive"": true,
+  ""isAllow"": true,
+  ""runner"": [
+    {
+      ""runnerId"": 25921,
+      ""status"": 1,
+      ""runner"": ""10 Over Runs - IND"",
+      ""line"": 96.42,
+      ""overRate"": 1.98,
+      ""underRate"": 1.83,
+      ""backPrice"": 97.0,
+      ""layPrice"": 96.0,
+      ""backSize"": 100.0,
+      ""laySize"": 100.0
+    }
+  ]
+}",2024-11-19 13:38:16.093897+00:00,False,1,51,2,23,0.0,0.0,2,0.0,3,0.0,1.0,100.0,95.0,100.0,1,0.0,100.0,1,100.0,100.0,False,0.0,0.0,0.0,0.0,False,1.0,1,0.0,0.0,20,95.0,100.0,100.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,59.0,59.0,0.0,0.0
+16707,4766,74302981,1,1,10 OVER L.D.O - IND,3.0,1,False,True,10.0,False,0.0,False,2,0.0,2,8.3,2,8.2,False,True,1,2.0,8,8,True,1,0.0,0,0.0,0.0,False,"{
+  ""marketId"": 16707,
+  ""eventId"": ""74302981"",
+  ""marketName"": ""10 OVER L.D.O - IND"",
+  ""status"": 1,
+  ""isActive"": true,
+  ""isAllow"": true,
+  ""runner"": [
+    {
+      ""runnerId"": 25936,
+      ""status"": 1,
+      ""runner"": ""10 OVER L.D.O - IND"",
+      ""line"": 0.6,
+      ""overRate"": 2.03,
+      ""underRate"": 1.97,
+      ""backPrice"": 1.0,
+      ""layPrice"": 1.0,
+      ""backSize"": 95.0,
+      ""laySize"": 105.0
+    }
+  ]
+}",2024-11-19 11:23:48.407306+00:00,False,0,100,2,26,0.0,0.0,1,0.0,3,5.0,1.0,0.0,0.0,0.0,1,0.0,0.0,1,100.0,100.0,False,0.0,0.0,0.0,0.0,False,1.0,1,0.0,0.0,20,0.0,0.0,0.0,60.0,0.6,2.03,1.97,1.0,1.0,105.0,95.0,51.0,50.0,0.0,0.0
+139,4766,74302981,1,1,12 over Runs - IND,5.0,2,False,True,12.0,False,0.0,True,2,8.1,2,11.5,2,11.4,True,True,1,2.0,8,8,True,1,0.0,0,0.0,0.0,0,0,0,True,1,139,2,23,0.0,0.0,1,7.4,3,1.0,1.0,0.0,0.0,0.0,1,0.0,90.06,1,100.0,100.0,False,0.0,0.0,0.0,0.0,False,1.0,2,0.0,0.0,20,87.0,87.0,87.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,71.0,70.0,49.0,46.0
+16709,4766,74302981,1,1,15 OVER L.D.O - IND,3.0,1,False,True,15.0,False,0.0,False,2,0.0,2,13.3,2,13.2,False,True,1,2.0,8,8,True,1,0.0,0,0.0,0.0,False,"{
+  ""marketId"": 16709,
+  ""eventId"": ""74302981"",
+  ""marketName"": ""15 OVER L.D.O - IND"",
+  ""status"": 1,
+  ""isActive"": true,
+  ""isAllow"": true,
+  ""runner"": [
+    {
+      ""runnerId"": 25947,
+      ""status"": 1,
+      ""runner"": ""15 OVER L.D.O - IND"",
+      ""line"": 0.6,
+      ""overRate"": 2.03,
+      ""underRate"": 1.97,
+      ""backPrice"": 1.0,
+      ""layPrice"": 1.0,
+      ""backSize"": 95.0,
+      ""laySize"": 105.0
+    }
+  ]
+}",2024-11-19 11:23:48.407306+00:00,False,0,101,2,26,0.0,0.0,1,0.0,3,5.0,1.0,0.0,0.0,0.0,1,0.0,0.0,1,100.0,100.0,False,0.0,0.0,0.0,0.0,False,1.0,1,0.0,0.0,20,0.0,0.0,0.0,90.0,0.6,2.03,1.97,1.0,1.0,105.0,95.0,81.0,80.0,0.0,0.0
+64,4766,74302981,1,1,15 over Runs - IND,5.0,2,False,True,15.0,False,0.0,True,2,6.1,2,14.5,2,14.5,True,True,1,2.0,8,8,True,1,0.0,0,0.0,0.0,0,0,0,False,1,64,2,23,0.0,0.0,1,5.4,3,1.0,1.0,0.0,0.0,0.0,1,0.0,114.0,1,100.0,100.0,False,0.0,0.0,0.0,0.0,False,1.0,2,0.0,0.0,20,111.0,111.0,111.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,89.0,89.0,37.0,34.0
+16710,4766,74302981,1,1,15 OVER Last Digit Lottery - IND,3.0,1,False,True,15.0,False,0.0,False,2,0.0,2,12.4,2,12.4,False,True,1,2.0,8,11,True,1,0.0,0,0.0,0.0,False,"{
+  ""marketId"": 16710,
+  ""eventId"": ""74302981"",
+  ""marketName"": ""15 OVER Last Digit Lottery - IND"",
+  ""status"": 1,
+  ""isActive"": true,
+  ""isAllow"": true,
+  ""runner"": [
+    {
+      ""runnerId"": 25948,
+      ""status"": 1,
+      ""runner"": ""0"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25949,
+      ""status"": 1,
+      ""runner"": ""1"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25950,
+      ""status"": 1,
+      ""runner"": ""2"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25951,
+      ""status"": 1,
+      ""runner"": ""3"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25952,
+      ""status"": 1,
+      ""runner"": ""4"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25953,
+      ""status"": 1,
+      ""runner"": ""5"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25954,
+      ""status"": 1,
+      ""runner"": ""6"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25955,
+      ""status"": 1,
+      ""runner"": ""7"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25956,
+      ""status"": 1,
+      ""runner"": ""8"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25957,
+      ""status"": 1,
+      ""runner"": ""9"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    }
+  ]
+}",0,True,0,151,5,28,0.0,0.0,1,0.0,3,2.0,1.0,0.0,0.0,0.0,1,0.0,0.0,1,100.0,100.0,False,0.0,0.0,0.0,0.0,False,1.0,1,0.0,0.0,20,0.0,0.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,76.0,0.0,0.0
+143,4766,74302981,1,1,16 over Runs - IND,5.0,2,False,True,16.0,False,0.0,True,2,12.1,2,15.5,2,15.4,True,True,1,2.0,8,8,True,1,0.0,0,0.0,0.0,0,0,0,False,1,143,2,23,0.0,0.0,1,11.4,3,1.0,1.0,0.0,0.0,0.0,1,0.0,122.64,1,100.0,100.0,False,0.0,0.0,0.0,0.0,False,1.0,2,0.0,0.0,20,120.0,120.0,120.0,96.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,95.0,94.0,73.0,70.0
+16711,4766,74302981,1,1,20 OVER L.D.O - IND,3.0,1,False,True,20.0,False,0.0,False,2,0.0,2,18.3,2,18.2,False,True,1,2.0,8,8,True,1,0.0,0,0.0,0.0,False,"{
+  ""marketId"": 16711,
+  ""eventId"": ""74302981"",
+  ""marketName"": ""20 OVER L.D.O - IND"",
+  ""status"": 1,
+  ""isActive"": true,
+  ""isAllow"": true,
+  ""runner"": [
+    {
+      ""runnerId"": 25958,
+      ""status"": 1,
+      ""runner"": ""20 OVER L.D.O - IND"",
+      ""line"": 0.6,
+      ""overRate"": 2.03,
+      ""underRate"": 1.97,
+      ""backPrice"": 1.0,
+      ""layPrice"": 1.0,
+      ""backSize"": 95.0,
+      ""laySize"": 105.0
+    }
+  ]
+}",2024-11-19 11:23:48.407306+00:00,False,0,102,2,26,0.0,0.0,1,0.0,3,5.0,1.0,0.0,0.0,0.0,1,0.0,0.0,1,100.0,100.0,False,0.0,0.0,0.0,0.0,False,1.0,1,0.0,0.0,20,0.0,0.0,0.0,120.0,0.6,2.03,1.97,1.0,1.0,105.0,95.0,111.0,110.0,0.0,0.0
+16712,4766,74302981,1,1,20 OVER Last Digit Lottery - IND,3.0,1,False,True,20.0,False,0.0,False,2,0.0,2,17.5,2,17.4,False,True,1,2.0,8,11,True,1,0.0,0,0.0,0.0,False,"{
+  ""marketId"": 16712,
+  ""eventId"": ""74302981"",
+  ""marketName"": ""20 OVER Last Digit Lottery - IND"",
+  ""status"": 1,
+  ""isActive"": true,
+  ""isAllow"": true,
+  ""runner"": [
+    {
+      ""runnerId"": 25959,
+      ""status"": 1,
+      ""runner"": ""0"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25960,
+      ""status"": 1,
+      ""runner"": ""1"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25961,
+      ""status"": 1,
+      ""runner"": ""2"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25962,
+      ""status"": 1,
+      ""runner"": ""7"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25963,
+      ""status"": 1,
+      ""runner"": ""3"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25964,
+      ""status"": 1,
+      ""runner"": ""8"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25965,
+      ""status"": 1,
+      ""runner"": ""4"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25966,
+      ""status"": 1,
+      ""runner"": ""9"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25967,
+      ""status"": 1,
+      ""runner"": ""5"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    },
+    {
+      ""runnerId"": 25968,
+      ""status"": 1,
+      ""runner"": ""6"",
+      ""line"": 10.5,
+      ""overRate"": 9.5,
+      ""underRate"": 10.5,
+      ""backPrice"": 9.5,
+      ""layPrice"": 10.5,
+      ""backSize"": 10000.0,
+      ""laySize"": 10000.0
+    }
+  ]
+}",0,True,0,152,5,28,0.0,0.0,1,0.0,3,2.0,1.0,0.0,0.0,0.0,1,0.0,0.0,1,100.0,100.0,False,0.0,0.0,0.0,0.0,False,1.0,1,0.0,0.0,20,0.0,0.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,107.0,106.0,0.0,0.0
+16702,4766,74302981,1,1,20 OVER RUNS - IND,5.0,1,True,True,20.0,False,0.0,True,2,0.0,2,19.5,2,19.5,True,False,0,0.0,9,9,True,1,0.0,2024-11-19 11:17:13.513104+00,0.0,0.0,False,"{
+  ""marketId"": 16702,
+  ""eventId"": ""74302981"",
+  ""marketName"": ""20 OVER RUNS - IND"",
+  ""status"": 1,
+  ""isActive"": true,
+  ""isAllow"": true,
+  ""runner"": [
+    {
+      ""runnerId"": 25922,
+      ""status"": 1,
+      ""runner"": ""20 OVER RUNS - IND"",
+      ""line"": 196.42,
+      ""overRate"": 1.98,
+      ""underRate"": 1.83,
+      ""backPrice"": 197.0,
+      ""layPrice"": 196.0,
+      ""backSize"": 100.0,
+      ""laySize"": 100.0
+    }
+  ]
+}",2024-11-19 13:38:16.093897+00:00,False,1,87,2,23,0.0,0.0,2,0.0,3,0.0,1.0,200.0,195.0,200.0,1,0.0,200.0,1,100.0,100.0,False,0.0,0.0,0.0,0.0,False,1.0,1,0.0,0.0,20,195.0,200.0,200.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,119.0,119.0,0.0,0.0

@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  fastapi-app:
+    image: fastapi:latest  # Use the image you build
+    build: .
+    ports:
+      - "8080:8080"  # Map port 8080 of the container to port 8080 on the host
+    volumes:
+      - data_volume:/app/resources  # Mount the volume for persistent data
+    environment:
+      DATABASE_URL: postgres://postgres:Score12345@34.172.208.183:5432/score  # Database connection URL
+    restart: always  # Restart the container if it stops or the server restarts
+
+volumes:
+  data_volume:
+    # Define volume properties if needed (e.g., driver, driver_opts)

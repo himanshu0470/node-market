@@ -1,0 +1,7 @@
+db:
+  postgres:
+    dbname: "score"
+    user: "postgres"
+    password: "Score12345"
+    host: "34.172.208.183"
+    port: 5432
